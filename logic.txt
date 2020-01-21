@@ -1,0 +1,9 @@
+1. sender types each letter of the message into a standard keyboard
+2. signal passes through "plugboard" which switches letters around 
+3. three physical "rotors" internally wired like spaghetti each change the output 
+letter before a "reflector sends the signal back through the whole system
+4. First rotor rotates one step after each key press
+ 5. the reflected signal makes a second pass through the plug board
+6. signal lights up a letter on a light board
+the rotors: 
+round disks that 
